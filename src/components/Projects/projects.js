@@ -14,7 +14,7 @@ const Projects = () => {
         >
             <section id='projects'>
                 <h2 className='skillTitle'>Projects</h2>  
-                <span className='skillDesc'>These are a list of my personal projects  </span>
+                <span className='skillDesc'>This is a list of my personal projects</span>
                 <div className='skillBars'>
 
                     <div className='skillBar'>
