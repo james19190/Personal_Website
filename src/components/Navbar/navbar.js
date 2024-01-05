@@ -5,7 +5,7 @@ import logo from '../../assets/logo.png'
 const Navbar = () => {
   return (
     <nav className='navbar'>
-        <img src={logo} alt="Logo" className='logo'/>
+        {/* <img src={logo} alt="Logo" className='logo'/> */}
 
         <div className='desktopMenu'>
             <a href='/' className='desktopMenuListItem'>Home</a>
