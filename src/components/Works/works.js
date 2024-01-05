@@ -11,7 +11,7 @@ const Works = () => {
       exit={{opacity: 0}}
     >
       <section id='works'>
-          <h2 className='worksTitle'>Work Experience</h2>
+          <h2 className='worksTitle'>Experience</h2>
           <span className='workDesc'>This is a summary of all the profession work I have done throughout my SWE career </span>
           <div className='worksImgs'>
               <img src= {logo} alt = ""className='worksImg'></img>

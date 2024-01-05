@@ -23,10 +23,11 @@
 .hello {
     font-size: 1.75rem;
     font-weight: 100;
-    ;
 }
 
-
+.gap {
+    padding-top: 2rem;
+}
 
 .introName {
     color: yellow;

@@ -11,18 +11,26 @@
 }
 
 .worksTitle{
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 600;
     padding-top: 3rem;
-    margin-bottom: rem;
+
 }
 
-.worksDesc{
+.workDesc{
     font-size: small;
     max-width: 45rem;
     padding: 0 2rem;
     align-items: center;
 }
+
+.worksImg {
+    align-items: center;
+    justify-content: center;
+
+
+}
+
 
 .worksImgs{
     display: flex;

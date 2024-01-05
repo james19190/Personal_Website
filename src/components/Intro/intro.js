@@ -14,9 +14,11 @@ const Intro = () => {
       >
 
         <span className='hello'>Hello,</span>
-        <span className='introText'> I'm <span className='introName'>James <br/></span> Software Engineer </span>
+        <span className='introText'> I'm <span className='introName'>James</span></span>
+        <span className='swe'> Software Engineer</span>
+        <span className='gap'> </span> 
         <p className='introPara'> I am a full-stack software developer with a focus on developing cloud-based SAAS servcies and AI/ML solutions  </p>
-        <Link> <button className='btn'>Learn More</button></Link>                
+        {/* <Link> <button className='btn'>Learn More</button></Link>                 */}
       
       
       </motion.div>

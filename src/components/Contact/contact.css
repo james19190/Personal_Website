@@ -12,14 +12,16 @@
 }
 
 .contactPageTitle{
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 600;
     padding-top: 3rem;
-    margin-bottom: 1rem;
 }
 
 .contactDesc{
     font-size: small;
+    max-width: 45rem;
+    padding: 0 2rem;
+    align-items: center;
     font-weight: 300;
 }
 

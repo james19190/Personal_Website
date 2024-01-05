@@ -1,24 +1,54 @@
-#about{
-    overflow: hidden;
-    width: 75vw;
-    /* height: 100rem; */
-    max-width: 65rem;
+#about {
+    display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
+    overflow: hidden;
+    width: 100vw;
+    max-width: 80rem;
     margin: 0 auto;
     vertical-align: middle;
 }
 
-.aboutTitle{
-    font-size: 2.5rem;
+.aboutTitle {
+    font-size: 2rem;
     font-weight: 600;
     padding-top: 3rem;
-    margin-bottom: 1rem;
+    padding-bottom: 1rem;
 }
-.aboutDesc{
+
+.aboutDesc {
+    text-indent: 2  rem;
+    text-align: left;
+    max-width: 50rem;
     font-weight: 300;
     font-size: 1rem;
-    max-width: 50rem;
-    padding: 0 2rem;
+    padding: 0 2rem 2rem;
 }
+
+.yellowText {
+    color: rgb(241, 241, 110);
+    /* font-weight: bold; */
+}
+
+
+a:link {
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  }
+  
+  a:hover {
+    color: yellow;
+  }
+  
+  a:active {
+    color: yellow;
+  }
+  
+  a:link, a:visited {
+    text-decoration: none;
+  } 
