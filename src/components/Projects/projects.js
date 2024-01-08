@@ -20,7 +20,7 @@ const Projects = () => {
                     <div className='skillBar'>
                         <img src={logo} alt='skill1' className='skillBarImg'></img>
                         <div className='skillBarText'> 
-                            <h2>Dev Ops</h2>
+                            <h2>Live Order-Book</h2>
                             <p>this is a demo text</p>
                         </div>
                     </div>

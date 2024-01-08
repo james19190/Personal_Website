@@ -17,7 +17,7 @@ const Intro = () => {
         <span className='introText'> I'm <span className='introName'>James</span></span>
         <span className='swe'> Software Engineer</span>
         <span className='gap'> </span> 
-        <p className='introPara'> I am a full-stack software developer with a focus on developing cloud-based SAAS servcies and AI/ML solutions  </p>
+        <p className='introPara'> I am a full-stack software developer with a focus on developing cloud-based SaaS servcies and AI/ML solutions  </p>
         {/* <Link><button className='btn'>Learn More</button></Link>                 */}
       
       
